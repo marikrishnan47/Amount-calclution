@@ -1,0 +1,29 @@
+
+form{
+	box-shadow: rgba(0, 0, 0, 0.45) 0px 36px 35px -30px;
+
+	background-image:url(image/photo-1540189549336-e6e99c3679fe.jpg);
+	background-repeat:no-repeat;
+	background-position:center;
+	background-size:cover;
+}
+
+.container{
+	
+	width:100%;
+	height:100vh;
+	
+}
+
+.btn-light:hover{
+	background-color: #fff !important;
+}
+.btn{
+	width:100%;
+}
+.btn-light:focus {
+    color: #000;
+    background-color: #f9fafb;
+    border-color: none !important;
+    box-shadow:none!important;
+}
